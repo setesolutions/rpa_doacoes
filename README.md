@@ -18,12 +18,12 @@ O script automatiza a navegação em um formulário de doações na web, coletan
 - `webdriver-manager`
 - `pandas`
 
-Você pode instalá-las com o seguinte comando:
+## 😍 Você pode instalá-las com o seguinte comando:
 
-```bash
 pip install selenium webdriver-manager pandas
 
-## 🚀 Como Usar
+
+## 🚀 Como Usar:
 
 Clone este repositório para sua máquina local.
 
@@ -39,13 +39,13 @@ python seu_codigo.py
 
 ## 🧐 Verifique o arquivo dados_projetos.xlsx gerado com as informações extraídas.
 
-## 📚 Contribuições
+## 📚 Contribuições:
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests com melhorias, correções de bugs ou novas funcionalidades.
 
-## ⚖️ Licença
+## ⚖️ Licença:
 Este projeto é distribuído sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-## 📬 Contato
+## 📬 Contato:
 Caso tenha dúvidas ou sugestões, entre em contato:
 
 📧 Email: setesolutions@gmail.com
